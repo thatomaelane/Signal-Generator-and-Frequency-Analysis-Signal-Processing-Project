@@ -127,18 +127,6 @@ These plots allow comparison of signal quality before and after filtering.
 
 Electrical Engineering Student
 
-**Areas of Interest**
-
-- Signal Processing
-- Embedded Systems
-- Power Systems
-- Artificial Intelligence
-- Machine Learning
-
-**GitHub:** *(Add your GitHub Profile Link)*
-
-**LinkedIn:** *(Add your LinkedIn Profile Link)*
-
 ---
 
 ## ⭐ Acknowledgements
