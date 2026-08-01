@@ -1,4 +1,4 @@
-# Signal Generator and Frequency Analysis - Signal Processing Project
+# Signal Processing - Signal Generator and Frequency Analysis
 
 An interactive MATLAB GUI and Proteus simulation for generating, analyzing, and filtering square and sine wave signals. This project was developed for Digital Signal Processing (DSP) and Signal Analysis, demonstrating waveform generation, FFT analysis, noise addition, and frequency-domain filtering.
 
@@ -45,7 +45,7 @@ The project is complemented by a Proteus circuit simulation and a detailed engin
 
 ## Project Structure
 
-```
+```text
 Signal_Generator_Frequency_Analysis/
 │
 ├── MATLAB_GUI/
@@ -56,11 +56,6 @@ Signal_Generator_Frequency_Analysis/
 │
 ├── Report/
 │   └── Signal_Generator_Report.pdf
-│
-├── Images/
-│   ├── gui.png
-│   ├── fft.png
-│   └── waveform.png
 │
 └── README.md
 ```
@@ -73,9 +68,9 @@ Signal_Generator_Frequency_Analysis/
 2. Select frequency (9 Hz, 80 Hz, or 900 Hz)
 3. Choose Signal-to-Noise Ratio (SNR)
 4. Generate the waveform
-5. Add Gaussian noise
+5. Add Gaussian White Noise (AWGN)
 6. Apply a Butterworth Low-Pass Filter
-7. Display:
+7. Visualize:
    - Noisy Time-Domain Signal
    - Filtered Time-Domain Signal
    - Noisy FFT Spectrum
@@ -87,49 +82,42 @@ Signal_Generator_Frequency_Analysis/
 
 The GUI displays:
 
-- Time Domain Signal (Noisy)
-- Time Domain Signal (Filtered)
+- Time-Domain Signal (Noisy)
+- Time-Domain Signal (Filtered)
 - Frequency Spectrum (FFT)
 - Filtered Frequency Spectrum
 
-These plots allow comparison of the signal before and after filtering.
-
----
-
-## 📷 Project Screenshots
-
-Add the following screenshots after uploading them:
-
-- MATLAB GUI
-- Proteus Circuit
-- Square Wave Output
-- Sine Wave Output
-- FFT Analysis
-- Filtered Signal
+These plots allow comparison of signal quality before and after filtering.
 
 ---
 
 ## Files Included
 
-- MATLAB Source Code (.m)
-- Proteus Simulation (.pdsprj)
-- Project Report (.pdf)
+- MATLAB Source Code (`.m`)
+- Proteus Simulation (`.pdsprj`)
+- Project Report (`.pdf`)
 - README
 
 ---
 
-## Learning Outcomes
+## Skills Learned
 
-This project demonstrates:
-
-- Signal Generation
-- Digital Signal Processing
-- FFT Frequency Analysis
-- Butterworth Filter Design
-- Noise Reduction Techniques
+- Digital Signal Processing (DSP)
+- MATLAB Programming
 - MATLAB GUI Development
+- Signal Generation (Square & Sine Waves)
+- Fast Fourier Transform (FFT) Analysis
+- Frequency Domain Analysis
+- Time Domain Signal Analysis
+- Butterworth Filter Design
+- Low-Pass Signal Filtering
+- Additive White Gaussian Noise (AWGN) Simulation
+- Signal-to-Noise Ratio (SNR) Analysis
+- Digital Filter Implementation
 - Proteus Circuit Simulation
-- Engineering Analysis and Visualization
+- Engineering Data Visualization
+- Signal Processing Fundamentals
+- Debugging and Testing MATLAB Applications
 
 ---
 
@@ -139,7 +127,7 @@ This project demonstrates:
 
 Electrical Engineering Student
 
-Specializing in:
+**Areas of Interest**
 
 - Signal Processing
 - Embedded Systems
@@ -147,12 +135,12 @@ Specializing in:
 - Artificial Intelligence
 - Machine Learning
 
-GitHub: **(Add your GitHub Profile Link)**
+**GitHub:** *(Add your GitHub Profile Link)*
 
-LinkedIn: **(Add your LinkedIn Profile Link)**
+**LinkedIn:** *(Add your LinkedIn Profile Link)*
 
 ---
 
 ## ⭐ Acknowledgements
 
-Developed as part of a Digital Signal Processing practical project demonstrating waveform generation, frequency analysis, filtering techniques, and MATLAB GUI development.
+Developed as part of a Digital Signal Processing (DSP) practical project to demonstrate waveform generation, FFT-based frequency analysis, noise simulation, digital filtering, MATLAB GUI development, and Proteus circuit simulation.
