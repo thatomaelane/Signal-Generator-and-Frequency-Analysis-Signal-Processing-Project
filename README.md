@@ -2,6 +2,7 @@
 
 > An interactive Digital Signal Processing (DSP) project that generates, analyzes, filters, and visualizes square and sine wave signals using MATLAB, FFT analysis, Butterworth filtering, and Proteus simulation.
 
+
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2023-blue)
 ![Proteus](https://img.shields.io/badge/Proteus-Simulation-green)
 ![DSP](https://img.shields.io/badge/Digital%20Signal%20Processing-DSP-orange)
